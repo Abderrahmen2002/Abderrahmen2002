@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **NFT marketplace**
 
-- 🌱 I’m currently learning **symfony**
+- 🌱 I’m currently learning **ReactJS**
 
 - 📫 How to reach me **abderrahmen.nasri@esprit.tn**
 
