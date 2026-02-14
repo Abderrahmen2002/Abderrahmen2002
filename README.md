@@ -19,10 +19,11 @@
  ![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
 
 ## 📌 Current Focus
+ - Building a full-stack coding competition & learning platform
  - Microservices Architecture
  - Clean Architecture
  - Scalable Web Applications
- - Building a full-stack coding competition & learning platform
+   
 
 ## 📫 Connect with me
 - LinkedIn: https://www.linkedin.com/in/abderrahmen-nasri-b349443b0/
