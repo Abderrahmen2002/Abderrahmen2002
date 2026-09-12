@@ -60,4 +60,4 @@ Key concepts include:
 ## 📫 Connect with me
 
 - LinkedIn: [LinkedIn](...)
-- Email: ...
+- Email: abderrahmen.abderrahmen2001@gmail.com
