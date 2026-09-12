@@ -1,39 +1,63 @@
 # Hi, I'm Abderrahmen 👋
 
-💻 Web Engineer | Backend & Full-Stack Developer  
-🚀 Passionate about scalable systems & clean architecture  
+💻 Computer Engineering Student | Backend & Full-Stack Developer
+🚀 Interested in building scalable web applications and backend systems
 
 ## 🛠 Tech Stack
 
 ### Backend
- ![Symfony](https://img.shields.io/badge/Symfony-black?logo=symfony)
- ![NestJS](https://img.shields.io/badge/NestJS-red?logo=nestjs)
- ![Spring Boot](https://img.shields.io/badge/SpringBoot-green?logo=springboot)
+
+[C#](...) [ASP.NET Core](...) [.NET](...) [Symfony](...) [NestJS](...) [Spring Boot](...)
 
 ### Frontend
- ![Angular](https://img.shields.io/badge/Angular-red?logo=angular)
- ![React](https://img.shields.io/badge/React-blue?logo=react)
+
+[Angular](...) [React](...)
 
 ### Databases
- ![MongoDB](https://img.shields.io/badge/MongoDB-green?logo=mongodb)
- ![MySQL](https://img.shields.io/badge/MySQL-blue?logo=mysql)
+
+[PostgreSQL](...) [MySQL](...) [MongoDB](...)
+
+### Other
+
+REST APIs • Git • GitHub • Docker • Clean Architecture • Microservices
 
 ## 📌 Current Focus
- - Building a full-stack coding competition & learning platform
- - Microservices Architecture
- - Clean Architecture
- - Scalable Web Applications
-   
+
+- Backend development with C# and ASP.NET Core
+- RESTful API development
+- PostgreSQL and database design
+- Clean Architecture
+- Scalable web applications
+- Microservices
+
+## 💼 Current Experience
+
+Currently completing a software development internship focused on web application development using:
+
+- C#
+- ASP.NET Core
+- PostgreSQL
+- REST APIs
+
+## 📂 Featured Project
+
+### OS SHOPS
+
+A multi-shop e-commerce platform built with ASP.NET Core and PostgreSQL.
+
+The platform allows merchants to create and manage their own online stores without requiring technical knowledge.
+
+Key concepts include:
+
+- ASP.NET Core
+- C#
+- PostgreSQL
+- REST APIs
+- Multi-tenant architecture
+- Separate databases for individual shops
+- Product and category management
 
 ## 📫 Connect with me
-- LinkedIn: https://www.linkedin.com/in/abderrahmen-nasri-b349443b0/
 
-
-
-
-
-
-
-
-
-
+- LinkedIn: [LinkedIn](...)
+- Email: ...
